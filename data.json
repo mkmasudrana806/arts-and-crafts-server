@@ -1,0 +1,32 @@
+[
+    {
+      "name": "John Doe",
+      "email": "John@gmail.com",
+      "photo": "https://i.ibb.co/xLc0P5D/Passport.jpg",
+      "role": "instructor"
+    },
+    {
+      "name": "Jabed Hasan",
+      "email": "jabedhasan231@gmail.com",
+      "photo": "https://i.ibb.co/xLc0P5D/Passport.jpg",
+      "role": "admin"
+    },
+    {
+      "name": "Bob Johnson",
+      "email": "Bob@gmail.com",
+      "photo": "https://i.ibb.co/xLc0P5D/Passport.jpg",
+      "role": "instructor"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "Jane@gmail.com",
+      "photo": "https://i.ibb.co/xLc0P5D/Passport.jpg",
+      "role": "instructor"
+    },
+    {
+      "name": "Shadhin It",
+      "email": "shadhinit22@gmail.com",
+      "photo": "https://lh3.googleusercontent.com/a/AAcHTtee7I7vaG-BLr8MOvxAZJN-prnyiQ2L553hvPM=s96-c",
+      "role": "student"
+    }
+  ]
